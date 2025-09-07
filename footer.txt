@@ -1,3 +1,1 @@
-<a href="https://infobongda.com/" class="text" style="color: #BB2033;">info bong da</a>
-<a href="https://example.com/" class="text" style="color: #BB2033;">Example text</a>
-<a href="https://clip.uk.net/" class="text" style="color: #BB2033;">clip uk</a>
+<a href=" https://clip.uk.net/" class="text" style="color: #BB2033;">https://clip.uk.net/</a>
